@@ -38,11 +38,11 @@ Additional Scripts
   
     Output File: `taintchecker`
 
-2. **compileLLVMPass**
+2. **compileTestProgram**
   
     This can be used to easily compile the test programs to required ll files (for eg: test1.c)
   
-    Usage example: `compileLLVMPass test-cases/test1.c`
+    Usage example: `compileTestProgram test-cases/test1.c`
   
     Output File: `test-cases/test1.ll`
     
